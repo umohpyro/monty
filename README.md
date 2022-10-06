@@ -79,5 +79,5 @@ Available operation codes:
 |queue  | Sets the format of the data into a queue (FIFO).|
 
 
-##Credits
+## Credits
 [Umoh Andem](https://github.com/umohpyro)
